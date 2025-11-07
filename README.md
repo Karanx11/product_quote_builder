@@ -47,7 +47,7 @@ flutter run
 ![Quote Form](assets/screenshot/saved_quotes.png)
 
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 
 Karan Sharma
 
